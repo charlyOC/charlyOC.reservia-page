@@ -397,7 +397,37 @@ input
     letter-spacing: -2px;
 }
 
-#gris
+#gris_1
+{
+  color: #DEEBFF;
+}
+
+#gris_2
+{
+  color: #DEEBFF;
+}
+
+#gris_3
+{
+  color: #DEEBFF;
+}
+
+#gris_4
+{
+  color: #DEEBFF;
+}
+
+#gris_5
+{
+  color: #DEEBFF;
+}
+
+#gris_6
+{
+  color: #DEEBFF;
+}
+
+#gris_7
 {
   color: #DEEBFF;
 }
@@ -555,7 +585,7 @@ aside
 
 
 
-#column
+.column
 {
     width: 23%;
     height: 100%;
@@ -990,12 +1020,12 @@ footer p:hover
         height: 180px
     }
 
-    #column img 
+    .column img 
     {
         height: 180px
     }
 
-    #column 
+    .column 
     {
         display: flex;
         flex-flow: column;  
@@ -1005,13 +1035,13 @@ footer p:hover
         
     }
 
-    #column a
+    .column a
     {
         max-width: 100%;
         height: 233px;
     }
 
-    #column figcaption
+    .column figcaption
     {
         margin-top: 13px;
     }
